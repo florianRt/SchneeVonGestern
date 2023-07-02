@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primaryColor">#1a496c</color>
+    <color name="primaryLightColor">#4c749a</color>
+    <color name="primaryDarkColor">#002241</color>
+
+    <color name="secondaryColor">#546e7a</color>
+    <color name="secondaryLightColor">#819ca9</color>
+    <color name="secondaryDarkColor">#29434e</color>
+
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+
+
+    <color name="text_main">#DFDFDF</color>
+    <color name="text_shadow_main">#4C4C4C</color>
+
+    <color name="background_detailed">#fff</color>
+    <color name="text_detailed">#4C4C4C</color>
+
+    <color name="text_settings">#222222</color>
+
+    <color name="accent_search_bar">#E8E8E8</color>
+    <color name="text_hint_search_bar">#C1C1C1</color>
+
+    <color name="background_clear">#3fbbdf</color>
+
+    <color name="navigationBar">#fff</color>
+
+    <color name="spinner_loading_tint">@color/text_detailed</color>
+
+    <!--  color for menubar and nav at bottom  -->
+    <color name="dark_blue">#1A496C</color>
+    <color name="darker_blue">#103550</color>
+
+    <color name="accent">@color/secondaryLightColor</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="icon">#CECECE</color>
+    <color name="overlay">#72FFFFFF</color>
+
+    <color name="red">#ff0000</color>
+
+    <color name="popUpColor">#FFFFFF</color>
+    <color name="onPopUpColor">@color/text_detailed</color>
+    pingo.coactum.up
+    <color name="textColor">#000</color>
+
+    <color name="test">#FF00FF</color>
+</resources>

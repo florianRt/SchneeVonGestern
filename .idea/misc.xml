@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1696642685851319" />
+        <entry key="app/src/main/res/drawable/chanceflurries.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/chanceflurries_black.xml" value="0.2485" />
+        <entry key="app/src/main/res/drawable/chanceflurries_shadow.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/chanceflurries_white.xml" value="0.2485" />
+        <entry key="app/src/main/res/drawable/chancerain.xml" value="0.297" />
+        <entry key="app/src/main/res/drawable/chancesleet.xml" value="0.2665" />
+        <entry key="app/src/main/res/drawable/chancesnow.xml" value="0.2665" />
+        <entry key="app/src/main/res/drawable/chancetstorms.xml" value="0.2665" />
+        <entry key="app/src/main/res/drawable/clear.xml" value="0.2665" />
+        <entry key="app/src/main/res/drawable/clip_source.xml" value="0.2745" />
+        <entry key="app/src/main/res/drawable/cloudy.xml" value="0.2665" />
+        <entry key="app/src/main/res/drawable/flurries.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/fog.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/ic_launcher.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/ic_launcher_round.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/ic_menu_camera.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/mostlycloudy.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/mostlycloudy_black.xml" value="0.297" />
+        <entry key="app/src/main/res/drawable/mostlysunny.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/mostlysunny_black.xml" value="0.297" />
+        <entry key="app/src/main/res/drawable/partlycloudy_black.xml" value="0.297" />
+        <entry key="app/src/main/res/drawable/partlysunny.xml" value="0.297" />
+        <entry key="app/src/main/res/drawable/rain.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.2855" />
+        <entry key="app/src/main/res/drawable/sleet.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/snow.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/snow_rain.xml" value="0.177" />
+        <entry key="app/src/main/res/drawable/test1.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/the_moon.xml" value="0.1895" />
+        <entry key="app/src/main/res/drawable/tstorms.xml" value="0.2525" />
+        <entry key="app/src/main/res/drawable/unknown.xml" value="0.229" />
+        <entry key="app/src/main/res/drawable/wind2.xml" value="0.229" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.4625" />
+        <entry key="app/src/main/res/layout-v28/activity_main.xml" value="0.20018115942028986" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2961038961038961" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/custom_search_layout.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/loading_screen.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.24864130434782608" />
+        <entry key="app/src/main/res/layout/search_edit_text.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/settings_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/suggestion_row.xml" value="0.4232902033271719" />
+        <entry key="app/src/main/res/layout/test1.xml" value="0.22" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/menu/nav_drawer_menu.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2855" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2855" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.33" />
+        <entry key="app/src/main/res/xml/searchable.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

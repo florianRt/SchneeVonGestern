@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="colorOnPrimary">#00FFFF</item>
+        <item name="colorOnSecondary">#FFFF00</item>
+        <item name="hintTextColor">#00FF00</item>
+
+        <item name="iconTint">@color/white</item>
+        <item name="tint">@color/white</item>
+        <item name="android:iconTint">@color/white</item>
+
+        <item name="android:textColorHint">@color/text_hint_search_bar</item>
+
+        <item name="android:textColor">@color/onPopUpColor</item> <!-- TextColor of SearchSuggestions and overflowMenu -->
+        <item name="backgroundColor">@color/primaryColor</item>
+        <item name="titleTextColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="AppTheme.Settings" parent="AppTheme">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="preferenceCategoryTitleTextColor">@color/secondaryLightColor</item>
+    </style>
+
+</resources>

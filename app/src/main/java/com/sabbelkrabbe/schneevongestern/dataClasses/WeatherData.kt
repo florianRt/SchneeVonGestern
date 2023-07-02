@@ -1,0 +1,28 @@
+package com.sabbelkrabbe.schneevongestern.dataClasses
+
+data class WeatherData(
+    var address: String,
+    var datetime: String,
+    var tempmax: Double,
+    var tempmin: Double,
+    var temp: Double,
+    var feelslike: Double,
+    var dew: Double,
+    var humidity: Double,
+    var precip: Double,
+    var perciptype: List<String>?,
+    var snow: Double,
+    var snowdepth: Double,
+    var windgust: Double,
+    var windspeed: Double,
+    var winddir: Double,
+    var pressure: Double,
+    var cloudcover: Double,
+    var visibility: Double,
+    var uvindex: Double,
+    var sunrise: String,
+    var sunset: String,
+    var conditions: String,
+    var icon: String,
+    var moonphase: Double,
+)

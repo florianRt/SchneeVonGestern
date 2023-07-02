@@ -1,0 +1,39 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <SwitchPreferenceCompat
+            app:key="@string/settings_key_use_standard"
+            app:title="@string/settings_title_use_standard"
+            app:summaryOff="@string/settings_useStandard_summary_off"
+            app:summaryOn="@string/settings_useStandard_summary_on"
+            app:switchTextOn="@string/velocity_unit"
+            />
+
+        <EditTextPreference
+            app:defaultValue="@string/settings_standard_city"
+            app:key="@string/settings_cityKey"
+            app:title="@string/settings_title_city"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="@string/sync_title" />
+    </PreferenceCategory>
+
+<!--    <PreferenceCategory android:title="About">-->
+<!--        <Preference-->
+<!--            app:title="@string/settings_contributed"-->
+<!--            app:key="link">-->
+<!--            <intent-->
+<!--                android:action="android.intent.action.VIEW"-->
+<!--                android:data="https://www.visualcrossing.com/"/>-->
+<!--        </Preference>-->
+<!--    </PreferenceCategory>-->
+
+</PreferenceScreen>

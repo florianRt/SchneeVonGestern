@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Schnee von Gestern</string>
+
+    <!-- Search Dialog -->
+    <string name="search_hint">search a City</string>
+
+    <!--  Toasts and Snackbars  -->
+    <string name="city_not_existing">City not found</string>
+
+    <!--  Text in Code for layouts  -->
+    <string name="at_day">"Day: "</string>
+    <string name="at_night">"Night: "</string>
+    <string name="degrees" translatable="false">°</string>
+    <string name="max_wind_speed">"max wind speed: "</string>
+
+    <!--  Text in layouts  -->
+    <string name="velocity_unit">km/h</string>
+    <string name="temperature_unit">°C</string>
+    <string name="volume_unit">mm</string>
+
+    <!--  content description in layouts  -->
+    <string name="contentDesc_temperature">average temperature of the day</string>
+    <string name="humidity">Humidity</string>
+    <string name="dew_point">Dew Point</string>
+    <string name="uv_index">UV-Index</string>
+    <string name="visibility">Visibility</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="day_length">Day Length</string>
+    <string name="pressure">Pressure</string>
+    <string name="detailed_information">Detailed Information</string>
+    <string name="new_moon">New Moon</string>
+    <string name="waxing_crescent">Waxing Crescent</string>
+    <string name="first_quarter">First Quarter</string>
+    <string name="waxing_gibbous">Waxing Gibbous</string>
+    <string name="full_moon">Full Moon</string>
+    <string name="waning_gibbous">Waning Gibbous</string>
+    <string name="last_quarter">Last Quarter</string>
+    <string name="waning_crescent">Waning Crescent</string>
+    <string name="error">Failed to load data</string>
+    <string name="moonphase_info">Moonphase</string>
+
+    <string name="key_height" translatable="false">key_screenheight</string>
+    <string name="key_first_start" translatable="false">key_firstStart</string>
+    <string name="feelslike_temp">"Perceived Temperature: "</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <string name="distance_unit">km</string>
+    <string name="snow">Snow</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="thunderstorm_less_precip">Thunderstorm Without Precipitation</string>
+    <string name="sleet">Sleet</string>
+    <string name="rain">Rain</string>
+    <string name="drizzle">Drizzle</string>
+    <string name="hail">Hail</string>
+    <string name="storm">Storm</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="clear">Clear</string>
+    <string name="fog">Fog</string>
+    <string name="menu_settings">Settings</string>
+    <string name="settings_title_activity">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Weather Location</string>
+    <string name="sync_header">Appearance</string>
+
+
+    <!-- Settings -->
+    <string name="settings_title_use_standard">Use last as standard</string>
+    <string name="settings_title_city">Standard Location</string>
+    <string name="sync_title">Always use dark theme</string>
+    <string name="settings_useStandard_summary_on">Use last searched location as the one shown when starting the App
+    </string>
+    <string name="settings_useStandard_summary_off">Use location specified in the following field as the location when starting the App</string>
+    <string name="settings_standard_city" translatable="false">Hildesheim</string>
+    <string name="settings_cityKey" translatable="false">settings_cityKey</string>
+    <string name="settings_contributed">Weather data contributed by Visual Crossing</string>
+    <string name="settings_key_use_standard" translatable="false">use_standard</string>
+    <string name="settings_key_last_city" translatable="false">key_last_city</string>
+    <string name="settings_title">Settings</string>
+
+    <!-- UV-Index -->
+    <string name="uvindex_low">Low</string>
+    <string name="uvindex_moderate">Moderate</string>
+    <string name="uvindex_high">High</string>
+    <string name="uvindex_very_high">Very high</string>
+    <string name="uvindex_extreme">Extreme</string>
+</resources>
